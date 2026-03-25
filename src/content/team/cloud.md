@@ -4,7 +4,7 @@ nicknames: []
 pfp: /pfps/cloud.png
 role: Coach
 specialties: ['general']
-hobbies: ['gym, philosophy, robotics, swimming']
+hobbies: ['gym', 'philosophy', 'robotics', 'swimming']
 socials: []
 active: true
 ---
